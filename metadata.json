@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Mevy - AI Language Partner",
+  "description": "An immersive, voice-first AI companion designed to help you practice English through natural conversation and gentle correction.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
